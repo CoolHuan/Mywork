@@ -13,8 +13,5 @@ public class ReturnNum{
 		}else{
 			System.out.println(num+"不是一个回文数");
 		}
-		
-		
-		
 	}
 }
