@@ -17,7 +17,7 @@ public class PersonTest{
 			geminno.info();
 			gem.info();
 			gemptc.info();
-			gem.setName("许思佳");
+			gem.setName("张三");
 			gem.info();
 			
 			
