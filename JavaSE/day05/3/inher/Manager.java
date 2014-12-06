@@ -9,8 +9,9 @@ public class Manager extends Employee{
 	}
 	//子类一参构造方法
 	public Manager(int id){
-		//this.id=id;
-		super(id);		//父类的构造函数
+		super(id);	//父类的构造函数
+			
+		this.id=id;
 		System.out.println("子类一参构造方法");
 	}
 	public Manager(int id,String name){
