@@ -4,9 +4,9 @@ public class PackDemo{
 	public void run(){
 		System.out.println("Ä¬ÈÏº¯Êý");
 	}
-	public static void main(String[] args){
+	/*public static void main(String[] args){
 	
 		System.out.println("Hello Java");
 	}
-	
+	*/
 }
