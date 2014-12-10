@@ -1,10 +1,7 @@
-/**
-
-此类是输出一句话HelloWorld
-
-*/
 public class HelloWorld{
-	public static void main(String args[]){
-		System.out.println("HelloWorld");
-	}// end main
-}// end class
+public static void main(String args[]){
+		if(args[0].equals("-name"))
+		System.out.println("Hello"+args[0]);
+		
+	}
+}
